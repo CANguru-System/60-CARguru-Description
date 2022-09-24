@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "04-Weiche-Linear-OTA",
+			"path": "..\\..\\..\\03 CANguru Aktuelle Versionen\\04-Weiche-Linear-OTA"
+		},
+		{
+			"name": "01-CANguru-Bridge-Olimex- Version Raspi 1.1",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

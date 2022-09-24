@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-arm-linux-gnueabihf-g++"
+	BuildStamp="20220826-0937-Experimental"
+	Name="raspberrypi"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/arm-linux-gnueabihf-g++"
+	CompilerVersion="10.2.1"
+	OSName="Linux"
+	Hostname="raspberrypi"
+	OSRelease="5.15.32-v7l+"
+	OSVersion="#1538 SMP Thu Mar 31 19:39:41 BST 2022"
+	OSPlatform="armv7l"
+	Is64Bits="0"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="7"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="99"
+	TotalPhysicalMemory="1871"
+	LogicalProcessorsPerPhysical="4"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Aug 26 14:01 CEST</StartDateTime>
+		<StartTestTime>1661515307</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 26 14:01 CEST</EndDateTime>
+		<EndTestTime>1661515307</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

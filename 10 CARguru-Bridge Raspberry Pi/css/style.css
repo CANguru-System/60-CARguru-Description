@@ -1,0 +1,21 @@
+
+
+progressbar progress {
+  background-color: rgb(53, 204, 53);
+}
+
+progressbar text {
+  color: rgb(255, 0, 234);
+  font: 12px "monospace";
+}
+
+notebook {
+  background-color: lightgrey;
+}
+notebook tab:first-child label {
+  color: rgb(0, 204, 0);
+}
+
+spinbutton entry {
+  color: #900185;
+}
