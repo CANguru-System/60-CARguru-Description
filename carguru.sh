@@ -1,3 +1,3 @@
 #!/bin/bash
-cd projects/CARguru/build
+cd 60-CARguru/10 CARguru-Bridge Raspberry Pi/build
 ./CARguru
